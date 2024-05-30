@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" this is an implementation of pascal triangle"""
+
 
 def pascal_triangle(n):
     """ this function is designed to genarate pascal trinagle"""
