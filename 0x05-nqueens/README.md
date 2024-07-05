@@ -1,0 +1,1 @@
+nqueens for chess board
